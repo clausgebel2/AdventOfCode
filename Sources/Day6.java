@@ -15,7 +15,7 @@ public class Day6 {
         }
 
         if (marker >= 0) {
-            System.out.println("First marker after character " + (marker));
+            System.out.println("First marker after character " + marker);
         } else {
             System.out.println("No marker found!");
         }

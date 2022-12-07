@@ -11,14 +11,14 @@ public class RucksackReorganization {
         System.out.println();
 
         List<String> backpacks = new ArrayList<>();
-        backpacks = readLines("Year2022/Day03/rucksacks.txt");
+        backpacks = readLines("rucksacks.txt");
         int priorityCounter = 0;
 
         List<String> leftCompartments = new ArrayList<>();
         List<String> rightCompartments = new ArrayList<>();
 
-        leftCompartments = getCompContents(backpacks);
-        rightCompartments = getCompContents(backpacks);
+        leftCompartments = getCompContents(backpacks, true);
+        rightCompartments = getCompContents(backpacks, false);
 
         for (int i=0; i< backpacks.size(); i++) {
             priorityCounter += getPriorityOfCharPairs(leftCompartments, rightCompartments, i);
@@ -55,11 +55,15 @@ public class RucksackReorganization {
         }
     }
 
-    static List<String> getCompContents(List<String> contents) {
+    static List<String> getCompContents(List<String> contents, boolean left) {
         List<String> containers = new ArrayList<>();
         for (String content: contents) {
             int length = content.length();
-            containers.add(content.substring(0, length / 2));
+            if (left == true) {
+                containers.add(content.substring(0, length / 2));
+            } else {
+                containers.add(content.substring(length / 2, length));
+            }
         }
         return containers;
     }

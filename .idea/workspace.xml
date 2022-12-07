@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642ef666-1dc1-46a1-8853-bd0d961cf785" name="Changes" comment="Third Day added.">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Day3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Day3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/rucksacks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/rucksacks.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rucksacks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rucksacks.txt" afterDir="false" />
+    <list default="true" id="642ef666-1dc1-46a1-8853-bd0d961cf785" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sources/Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/game.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "16",
-    "last_opened_file_path": "C:/Users/claus/IdeaProjects/AdventOfCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/claus/IdeaProjects/AdventOfCode&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode" />
       <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\Sources" />
       <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\day1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\Sources" />
       <recent name="C:\Users\claus\IdeaProjects\AdventOfCode" />
       <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\day1" />
     </key>
@@ -86,13 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670347404824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third Day, second task added.">
+      <created>1670401931504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670401931504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit." />
     <MESSAGE value="First Day added." />
     <MESSAGE value="Third Day added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Day added." />
+    <MESSAGE value="Third Day, second task added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Day, second task added." />
   </component>
 </project>

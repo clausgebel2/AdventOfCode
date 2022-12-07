@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="642ef666-1dc1-46a1-8853-bd0d961cf785" name="Changes" comment="Third Day added.">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Day3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/rucksacks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/rucksacks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rucksacks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rucksacks.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IXfpQg2lYWPBVs4LOXOVdOGPZM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "16",
+    "last_opened_file_path": "C:/Users/claus/IdeaProjects/AdventOfCode"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\Sources" />
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\day1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode" />
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\day1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="642ef666-1dc1-46a1-8853-bd0d961cf785" name="Changes" comment="" />
+      <created>1670333031059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670333031059</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1670333209386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670333209386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Day added.">
+      <created>1670339473435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670339473435</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Third Day added.">
+      <created>1670347404824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670347404824</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit." />
+    <MESSAGE value="First Day added." />
+    <MESSAGE value="Third Day added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Day added." />
+  </component>
+</project>

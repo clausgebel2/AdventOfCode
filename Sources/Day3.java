@@ -35,6 +35,7 @@ public class Day3 {
                 return getPriority(i);
             }
         }
+
         for (char i=65; i<=90; i++) {
             if (leftCompartment.indexOf(i) != -1 && rightCompartment.indexOf(i) != -1) {
                 System.out.println(leftCompartment + " - " + rightCompartment + ": " + getPriority(i));

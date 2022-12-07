@@ -1,4 +1,6 @@
-public class Day6 {
+package Year2022.Day06;
+
+public class TuningTrouble {
 
     public static void main(String[] args) {
         int marker = 0;

@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642ef666-1dc1-46a1-8853-bd0d961cf785" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Year2015/Day01/NotQuiteLisp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Year2015/Day01/storyguide.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Day3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Day3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Year2022/Day01/CalorieCounting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Year2022/Day02/RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Year2022/Day03/RucksackReorganization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Day3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Year2022/Day03/RucksackReorganization2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Day6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Year2022/Day06/TuningTrouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/calories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Year2022/Day01/calories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/game.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Year2022/Day02/game.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/rucksacks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Year2022/Day03/rucksacks.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +42,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/claus/IdeaProjects/AdventOfCode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "16",
+    "last_opened_file_path": "C:/Users/claus/IdeaProjects/AdventOfCode"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\claus\IdeaProjects\AdventOfCode" />
@@ -47,9 +58,11 @@
       <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\day1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\Sources\Year2022\Day03" />
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\Sources\Year2022\Day02" />
+      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\Sources\Year2022\Day01" />
       <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\Sources" />
       <recent name="C:\Users\claus\IdeaProjects\AdventOfCode" />
-      <recent name="C:\Users\claus\IdeaProjects\AdventOfCode\day1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670415133009</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Redundant method getLeftCompContents and getRightCompContents in file Day3.java removed.&#10;Redundant method get Priority in file Day3_2.java removed.">
+      <created>1670415905553</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670415905553</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +133,7 @@
     <MESSAGE value="Third Day, second task added." />
     <MESSAGE value="Second day added." />
     <MESSAGE value="Redundant method getLeftCompContents and getRightCompContents in file Day3.java removed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Redundant method getLeftCompContents and getRightCompContents in file Day3.java removed." />
+    <MESSAGE value="Redundant method getLeftCompContents and getRightCompContents in file Day3.java removed.&#10;Redundant method get Priority in file Day3_2.java removed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Redundant method getLeftCompContents and getRightCompContents in file Day3.java removed.&#10;Redundant method get Priority in file Day3_2.java removed." />
   </component>
 </project>

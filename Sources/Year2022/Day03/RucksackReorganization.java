@@ -1,15 +1,17 @@
+package Year2022.Day03;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Day3 {
+public class RucksackReorganization {
     public static void main(String[] args) {
         System.out.println();
 
         List<String> backpacks = new ArrayList<>();
-        backpacks = readLines("rucksacks.txt");
+        backpacks = readLines("Year2022/Day03/rucksacks.txt");
         int priorityCounter = 0;
 
         List<String> leftCompartments = new ArrayList<>();

@@ -1,3 +1,5 @@
+package Year2022.Day02;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -5,9 +7,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Day2 {
+public class RockPaperScissors {
     public static void main(String[] args) {
-        ArrayList<String> lines = new ArrayList<>(readLines("game.txt"));
+        ArrayList<String> lines = new ArrayList<>(readLines("Year2022/Day02/game.txt"));
         int counter = 0;
 
         System.out.println("Total score: " + getScore(lines));

@@ -1,12 +1,14 @@
+package Year2022.Day01;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Day1 {
+public class CalorieCounting {
     public static void main(String[] args) {
-        String pathname = "calories.txt";
+        String pathname = "Year2022/Day01/calories.txt";
         ArrayList<String> calories = new ArrayList<>();
         ArrayList<Integer> addedUpCalories = new ArrayList<>();
 

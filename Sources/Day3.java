@@ -15,8 +15,8 @@ public class Day3 {
         List<String> leftCompartments = new ArrayList<>();
         List<String> rightCompartments = new ArrayList<>();
 
-        leftCompartments = getLeftCompContents(backpacks);
-        rightCompartments = getRightCompContents(backpacks);
+        leftCompartments = getCompContents(backpacks);
+        rightCompartments = getCompContents(backpacks);
 
         for (int i=0; i< backpacks.size(); i++) {
             priorityCounter += getPriorityOfCharPairs(leftCompartments, rightCompartments, i);
@@ -31,14 +31,12 @@ public class Day3 {
 
         for (char i=97; i<=122; i++) {
             if (leftCompartment.indexOf(i) != -1 && rightCompartment.indexOf(i) != -1) {
-                System.out.println(leftCompartment + " - " + rightCompartment + ": " + getPriority(i));
                 return getPriority(i);
             }
         }
 
         for (char i=65; i<=90; i++) {
             if (leftCompartment.indexOf(i) != -1 && rightCompartment.indexOf(i) != -1) {
-                System.out.println(leftCompartment + " - " + rightCompartment + ": " + getPriority(i));
                 return getPriority(i);
             }
         }
@@ -55,20 +53,11 @@ public class Day3 {
         }
     }
 
-    static List<String> getLeftCompContents(List<String> contents) {
+    static List<String> getCompContents(List<String> contents) {
         List<String> containers = new ArrayList<>();
         for (String content: contents) {
             int length = content.length();
             containers.add(content.substring(0, length / 2));
-        }
-        return containers;
-    }
-
-    static List<String> getRightCompContents(List<String> contents) {
-        List<String> containers = new ArrayList<>();
-        for (String content: contents) {
-            int length = content.length();
-            containers.add(content.substring(length / 2, length));
         }
         return containers;
     }

@@ -32,26 +32,16 @@ public class Day3_2 {
     static int getPriorityOfCharGroup(List<String> firstBackpacks, List<String> secondBackpacks, List<String> thirdBackpacks, int index) {
         for (char i=97; i<=122; i++) {
             if (firstBackpacks.get(index).indexOf(i) != -1 && secondBackpacks.get(index).indexOf(i) != -1 && thirdBackpacks.get(index).indexOf(i) != -1) {
-                return getPriority(i);
+                return i - 96;
             }
         }
 
         for (char i=65; i<=90; i++) {
             if (firstBackpacks.get(index).indexOf(i) != -1 && secondBackpacks.get(index).indexOf(i) != -1 && thirdBackpacks.get(index).indexOf(i) != -1) {
-                return getPriority(i);
+                return i - 38;
             }
         }
         return 0;
-    }
-
-    static int getPriority(char character){
-        int position = character;
-        // Lowercase
-        if (position >= 97 && position <= 122) {
-            return (position - 96);
-        } else { // Uppercase
-            return (position -  38);
-        }
     }
 
     static ArrayList<String> readLines(String path) {

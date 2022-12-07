@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642ef666-1dc1-46a1-8853-bd0d961cf785" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Sources/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Day3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Day3_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670405888658</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Redundant method getLeftCompContents and getRightCompContents in file Day3.java removed.">
+      <created>1670415133009</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670415133009</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,6 +112,7 @@
     <MESSAGE value="Third Day added." />
     <MESSAGE value="Third Day, second task added." />
     <MESSAGE value="Second day added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Second day added." />
+    <MESSAGE value="Redundant method getLeftCompContents and getRightCompContents in file Day3.java removed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Redundant method getLeftCompContents and getRightCompContents in file Day3.java removed." />
   </component>
 </project>
